@@ -2,8 +2,6 @@
 
 My personal solutions and study notes.
 
-There may be many mistakes.
-
 ## 김성기, 김도한, 계승혁, _Introduction to analysis_ (해석개론), 2011
 
 * #### CH6. Power Series
