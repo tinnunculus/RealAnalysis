@@ -10,4 +10,4 @@ My personal solutions and study notes.
 ## Stein, Elias M., _Real Analysis_, 2005
 
 * #### CH1. Measure Theory
-  * [1.6.1](./stein/1_6_1.jpeg), [1.6.5](./stein/1_6_5.jpeg), [1.6.7](./stein/1_6_7.jpeg)
+  * [1.6.1](./stein/1_6_1.jpeg), [1.6.5](./stein/1_6_5.jpeg), [1.6.7](./stein/1_6_7.jpeg), [1.6.8](./stein/1_6_8.jpeg)
