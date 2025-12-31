@@ -11,3 +11,6 @@ My personal solutions and study notes.
 
 * #### CH1. Measure Theory
   * [1.6.1](./stein/1_6_1.jpeg), [1.6.5](./stein/1_6_5.jpeg), [1.6.7](./stein/1_6_7.jpeg), [1.6.8](./stein/1_6_8.jpeg)
+
+* #### CH2. Integration Theory
+  * [2.5.1](./stein/2_5_1.jpeg), [2.5.4](./stein/2_5_4.jpeg), [2.5.6](./stein/2_5_6.jpeg)
