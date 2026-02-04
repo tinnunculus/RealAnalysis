@@ -17,4 +17,4 @@ My personal solutions and study notes.
   * [2.5.1](./stein/2_5_1.jpeg), [2.5.4](./stein/2_5_4.jpeg), [2.5.6](./stein/2_5_6.jpeg), [2.5.9](./stein/2_5_9.jpeg), [2.5.12](./stein/2_5_12.jpeg), [2.5.18](./stein/2_5_18.jpeg)
 
 * #### CH3. Differentiation And Integration
-  * [3.5.3](./stein/3_5_3.jpeg),
+  * [3.5.3](./stein/3_5_3.jpeg), [3.5.10](./stein/3_5_10.jpeg)
